@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <div className="header-section">
       <div>
-        <h2>🌞 Good Morning, Dr. Bhootda!</h2>
+        <h2>🌞 Good Morning, Dr. Limbachiya!</h2>
         <p>Overview of all of your patients and your income</p>
       </div>
 
